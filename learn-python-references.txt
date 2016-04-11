@@ -1,4 +1,3 @@
-
 http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming
 http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming
 Install xcode
