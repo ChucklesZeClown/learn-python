@@ -3,3 +3,6 @@ http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming
 Install xcode
 Installed Homebrew http://mxcl.github.com/homebrew/
 Confirmed python version as 2.7.10
+Reviewed http://pedrokroger.net/choosing-best-python-ide/ to look for an xcode replacement as xcode was prving unscrutable when trying to integrate with GitHub
+
+Began exercises from http://learnpythonthehardway.org/book/index.html
