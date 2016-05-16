@@ -1,0 +1,2 @@
+# https://docs.python.org/2/library/stdtypes.html#string-formatting-operations
+# details the conversion types used to display values
